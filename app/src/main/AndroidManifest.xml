@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ua.iparkh.srb" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".activity.ActivitySpeedReads"
+            android:label="@string/title_activity_activity_speed_reads" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.ActivitySpeedRead"
+            android:label="@string/title_activity_activity_speed_read" >
+        </activity>
+        <activity
+            android:name=".activity.ActivityExercise46"
+            android:label="@string/title_activity_activity_exercise46" >
+        </activity>
+        <activity
+            android:name=".activity.ActivityExercise108"
+            android:label="@string/title_activity_activity_exercise108" >
+        </activity>
+    </application>
+
+</manifest>

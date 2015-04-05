@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SRB</string>
+    <string name="title_activity_activity_speed_reads">ActivitySpeedReads</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_speed_read">ActivitySpeedRead</string>
+    <string name="title_activity_activity_exercise46">ActivityExercise46</string>
+    <string name="title_activity_activity_exercise108">ActivityExercise108</string>
+</resources>
