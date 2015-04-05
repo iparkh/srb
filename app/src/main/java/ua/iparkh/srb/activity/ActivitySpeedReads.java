@@ -14,11 +14,6 @@ public class ActivitySpeedReads extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_speed_reads);
 
-
-
-
-
-
     }
 
 
